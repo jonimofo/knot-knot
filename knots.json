@@ -8,8 +8,35 @@
           "title": "Fisherman double knot",
           "description": "",
           "mustKnow": true,
-          "youtube": "ZR-sElJmrio",
-          "imageFolder": "sheet-bend"
+          "youtube": "ZR-sElJmrio"
+        },
+        {
+          "title": "Zeppelin knot",
+          "description": "",
+          "mustKnow": true,
+          "youtube": "g1zVpzgYhQk"
+        }
+      ]
+    },
+    {
+      "name": "Simple boucle",
+      "items": [
+        {
+          "title": "Simple loop knot",
+          "description": "",
+          "mustKnow": false,
+          "youtube": "dSBFDHqkHtk"
+        }
+      ]
+    },
+    {
+      "name": "Attacher du stuff",
+      "items": [
+        {
+          "title": "Fagot de bois",
+          "description": "",
+          "mustKnow": false,
+          "youtube": "SX0oprkG1jc"
         }
       ]
     }
